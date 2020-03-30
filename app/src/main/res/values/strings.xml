@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CatMovie</string>
+    <string name="films">FILMS</string>
+    <string name="tivi">TV LOCAL</string>
+    <string name="catalog">Cat</string>
+    <string name="lorem_ipsum">lorem ipsum is lorem</string>
+    <string name="populer">Popular in CatMovie</string>
+    <string name="desc">Description</string>
+    <string name="title">Title</string>
+    <string name="film">Movie</string>
+
+
+</resources>
